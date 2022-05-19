@@ -1,1 +1,16 @@
 :::: Log File ::::
+[19/5/2022 -- 12:21]  Info task started
+[19/5/2022 -- 12:21]  Mustache Templates ran on the HTML files
+[19/5/2022 -- 12:21]  Scripts ran on main.js
+[19/5/2022 -- 12:21]  Sass ran on files
+[19/5/2022 -- 12:35]  Info task started
+[19/5/2022 -- 12:35]  Mustache Templates ran on the HTML files
+[19/5/2022 -- 12:35]  Scripts ran on main.js
+[19/5/2022 -- 12:35]  Sass ran on files
+[19/5/2022 -- 12:36]  restarted!
+[19/5/2022 -- 12:41]  Info task started
+[19/5/2022 -- 12:42]  Mustache Templates ran on the HTML files
+[19/5/2022 -- 12:42]  Scripts ran on main.js
+[19/5/2022 -- 12:42]  Sass ran on files
+[19/5/2022 -- 12:43]  Scripts ran on main.js
+[19/5/2022 -- 12:43]  Scripts ran on main.js
