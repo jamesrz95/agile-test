@@ -14,3 +14,98 @@
 [19/5/2022 -- 12:42]  Sass ran on files
 [19/5/2022 -- 12:43]  Scripts ran on main.js
 [19/5/2022 -- 12:43]  Scripts ran on main.js
+[19/5/2022 -- 13:23]  Info task started
+[19/5/2022 -- 13:23]  Mustache Templates ran on the HTML files
+[19/5/2022 -- 13:23]  Scripts ran on main.js
+[19/5/2022 -- 13:34]  Info task started
+[19/5/2022 -- 13:34]  Mustache Templates ran on the HTML files
+[19/5/2022 -- 13:34]  Scripts ran on main.js
+[19/5/2022 -- 13:54]  Info task started
+[19/5/2022 -- 13:54]  Mustache Templates ran on the HTML files
+[19/5/2022 -- 13:54]  Scripts ran on main.js
+[19/5/2022 -- 13:54]  Info task started
+[19/5/2022 -- 13:54]  Mustache Templates ran on the HTML files
+[19/5/2022 -- 13:54]  Scripts ran on main.js
+[19/5/2022 -- 13:55]  restarted!
+[19/5/2022 -- 13:55]  restarted!
+[19/5/2022 -- 13:55]  Info task started
+[19/5/2022 -- 13:56]  Mustache Templates ran on the HTML files
+[19/5/2022 -- 13:56]  Scripts ran on main.js
+[19/5/2022 -- 13:58]  Info task started
+[19/5/2022 -- 13:58]  Mustache Templates ran on the HTML files
+[19/5/2022 -- 13:58]  Scripts ran on main.js
+[19/5/2022 -- 14:2]  Info task started
+[19/5/2022 -- 14:2]  Mustache Templates ran on the HTML files
+[19/5/2022 -- 14:2]  Scripts ran on main.js
+[19/5/2022 -- 14:8]  Info task started
+[19/5/2022 -- 14:8]  Mustache Templates ran on the HTML files
+[19/5/2022 -- 14:8]  Scripts ran on main.js
+[19/5/2022 -- 14:8]  Info task started
+[19/5/2022 -- 14:9]  Mustache Templates ran on the HTML files
+[19/5/2022 -- 14:9]  Scripts ran on main.js
+[19/5/2022 -- 14:9]  Sass ran on files
+[19/5/2022 -- 14:9]  Scripts ran on main.js
+[19/5/2022 -- 14:9]  Scripts ran on main.js
+[19/5/2022 -- 14:10]  Scripts ran on main.js
+[19/5/2022 -- 14:11]  Scripts ran on main.js
+[19/5/2022 -- 14:12]  Scripts ran on main.js
+[19/5/2022 -- 14:15]  Info task started
+[19/5/2022 -- 14:15]  Mustache Templates ran on the HTML files
+[19/5/2022 -- 14:15]  Scripts ran on main.js
+[19/5/2022 -- 14:15]  Sass ran on files
+[21/5/2022 -- 10:24]  Info task started
+[21/5/2022 -- 10:24]  Mustache Templates ran on the HTML files
+[21/5/2022 -- 10:24]  Scripts ran on main.js
+[21/5/2022 -- 10:24]  Sass ran on files
+[21/5/2022 -- 10:34]  Info task started
+[21/5/2022 -- 10:34]  Mustache Templates ran on the HTML files
+[21/5/2022 -- 10:34]  Scripts ran on main.js
+[21/5/2022 -- 10:35]  Info task started
+[21/5/2022 -- 10:35]  Mustache Templates ran on the HTML files
+[21/5/2022 -- 10:35]  Scripts ran on main.js
+[21/5/2022 -- 10:35]  Sass ran on files
+[21/5/2022 -- 10:43]  Scripts ran on main.js
+[21/5/2022 -- 10:46]  Info task started
+[21/5/2022 -- 10:46]  Mustache Templates ran on the HTML files
+[21/5/2022 -- 10:46]  Scripts ran on main.js
+[21/5/2022 -- 10:47]  Sass ran on files
+[21/5/2022 -- 10:47]  Scripts ran on main.js
+[21/5/2022 -- 10:50]  Scripts ran on main.js
+[21/5/2022 -- 10:51]  Scripts ran on main.js
+[21/5/2022 -- 10:52]  Scripts ran on main.js
+[21/5/2022 -- 10:52]  Scripts ran on main.js
+[21/5/2022 -- 10:52]  Scripts ran on main.js
+[21/5/2022 -- 11:13]  Scripts ran on main.js
+[21/5/2022 -- 11:13]  Scripts ran on main.js
+[21/5/2022 -- 11:14]  Scripts ran on main.js
+[21/5/2022 -- 11:14]  Scripts ran on main.js
+[21/5/2022 -- 11:14]  Info task started
+[21/5/2022 -- 11:14]  Mustache Templates ran on the HTML files
+[21/5/2022 -- 11:14]  Scripts ran on main.js
+[21/5/2022 -- 11:14]  Sass ran on files
+[21/5/2022 -- 11:18]  Scripts ran on main.js
+[21/5/2022 -- 11:20]  Scripts ran on main.js
+[21/5/2022 -- 11:20]  Scripts ran on main.js
+[21/5/2022 -- 11:21]  Scripts ran on main.js
+[21/5/2022 -- 11:22]  Scripts ran on main.js
+[21/5/2022 -- 11:25]  Scripts ran on main.js
+[21/5/2022 -- 11:25]  Scripts ran on main.js
+[21/5/2022 -- 11:35]  Scripts ran on main.js
+[21/5/2022 -- 11:35]  Scripts ran on main.js
+[21/5/2022 -- 11:37]  Scripts ran on main.js
+[21/5/2022 -- 11:58]  restarted!
+[21/5/2022 -- 11:59]  Info task started
+[21/5/2022 -- 11:59]  Mustache Templates ran on the HTML files
+[21/5/2022 -- 11:59]  Scripts ran on main.js
+[21/5/2022 -- 11:59]  Sass ran on files
+[21/5/2022 -- 12:6]  restarted!
+[21/5/2022 -- 12:11]  restarted!
+[21/5/2022 -- 12:14]  restarted!
+[21/5/2022 -- 12:16]  restarted!
+[21/5/2022 -- 12:27]  Scripts ran on main.js
+[21/5/2022 -- 12:28]  Scripts ran on main.js
+[21/5/2022 -- 12:58]  Scripts ran on main.js
+[21/5/2022 -- 13:0]  restarted!
+[21/5/2022 -- 13:2]  restarted!
+[21/5/2022 -- 13:2]  Scripts ran on main.js
+[21/5/2022 -- 13:3]  Scripts ran on main.js

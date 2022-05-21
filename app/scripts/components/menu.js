@@ -2,7 +2,7 @@
  * This file will hold the Menu that lives at the top of the Page, this is all rendered using a React Component...
  *
  */
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 
 const Menu = () => {
   const [showingSearch, setShowingSearch] = useState(false);
@@ -16,6 +16,24 @@ const Menu = () => {
     // Start Here
     // ...
   }
+
+  async function getProducts() {
+    const response = await fetch("http://localhost:3035", {
+      method: "GET",
+      headers: {
+        "Content-Type": "application/json",
+      },
+    });
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    const data = await response.json();
+    console.log(data);
+  }
+
+  useEffect(() => {
+    getProducts();
+  }, []);
 
   return (
     <header className="menu">
