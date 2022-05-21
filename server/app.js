@@ -24,7 +24,6 @@ const app = express();
 const data = require("./data");
 
 const port = 3035;
-
 /**
  * Start the Node Server Here...
  *
@@ -33,6 +32,13 @@ const port = 3035;
  * The Request object 'req' represents the request to the server.
  * The ServerResponse object 'res' represents the writable stream back to the client.
  */
+app.use(function (req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Methods", "GET, PUT, POST, DELETE");
+  res.header("Access-Control-Allow-Headers", "Content-Type");
+  next();
+});
+
 app.get("/", (req, res) => {
   console.log("Hi");
   res.json(data);
